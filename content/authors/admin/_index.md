@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: IEEE Computer Society | Israel
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,8 +9,8 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 #organizations:
@@ -41,16 +41,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/wowchemy
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

@@ -18,7 +18,14 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+<div style="text-align: left">
 
-Check out my [resumé](/about/) and portfolio below 😍
+The Israeli chapter of the IEEE Computer Society aims to bring together students and professionals in different areas of computer engineering. We hope to:
+
+* Serve as a bridge between the needs of our members and the IEEE Computer Society organization
+
+* To share information in the form of Webinars, local workshops and conferences
+
+* To promote innovation
+</div>
+
