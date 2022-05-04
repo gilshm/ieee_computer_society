@@ -13,7 +13,12 @@ title: The RISC-V Vector Processor in EPI
 #  country: United States
 
 summary: ''
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The European Processor Initiative (EPI) project aims at developing European processor technology for High Performance Computing (HPC)
+and emerging application areas. Beyond leveraging ARM technology, an important objective of the project is to develop a fully owned implementation
+of a generic accelerator based on the RISC-V vector extension ISA. The goal of this talk is to describe the fundamental vision behind the design
+of such accelerator and its architectural features. I will report on the implementation status of the first version of the micro architecture.
+I will also present the software development vehicle (SDV) frameworks used to steer a holistic co-design approach including operating system and
+overall system software developments to homogenize the heterogeneous combination of different cores in the overall platform.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
