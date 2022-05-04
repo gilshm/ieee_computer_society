@@ -34,7 +34,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/S4jSvcHYcOs)'
   focal_point: Right
 
-#links:
+links:
+  - icon: pen
+  - icon_pack: fas
+  - name: Register
+  - url: https://technion.zoom.us/webinar/register/WN_lMErhN-jQoSGBxDp5hNkiQ
 #  - icon: desktop
 #    icon_pack: fas
 #    name: Slides (Intro)
