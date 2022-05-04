@@ -36,9 +36,9 @@ image:
 
 links:
   - icon: pen
-  - icon_pack: fas
-  - name: Register
-  - url: https://technion.zoom.us/webinar/register/WN_lMErhN-jQoSGBxDp5hNkiQ
+    icon_pack: fas
+    name: Register
+    url: https://technion.zoom.us/webinar/register/WN_lMErhN-jQoSGBxDp5hNkiQ
 #  - icon: desktop
 #    icon_pack: fas
 #    name: Slides (Intro)
