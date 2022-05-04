@@ -13,7 +13,7 @@ title: On DNN Resiliency and GNN Representations Recoverability — Two Talks
 #  country: United States
 
 summary: ''
-abstract: 'Embracing the Resiliency of Deep Neural Networks – Rethinking Old Mechanisms: Deep neural networks (DNNs) have gained tremendous
+abstract: 'First talk: Embracing the Resiliency of Deep Neural Networks–Rethinking Old Mechanisms. Deep neural networks (DNNs) have gained tremendous
 momentum in recent years, both in academia and industry. Yet, DNNs are compute intensive and may require billions of multiply-and-accumulate
 operations for a single input query. Limited resources, such as those in IoT devices, latency constraints, and high input throughput, all
 drive research and development of efficient computing methods for DNN execution. In our research, we rethink two well-known CPU
@@ -24,7 +24,8 @@ several computational flows to avoid idle MAC operations due to zero-valued oper
 prediction schemes which leverage the inherent spatial correlation in CNN feature maps to predict zero-valued activations. By speculating
 which activations will be zero-valued, we potentially reduce the required MAC operations.
 
-On a Recoverability of Graph Neural Network Representations: Despite their growing popularity, graph neural networks (GNNs) still have multiple
+
+Second talk: On a Recoverability of Graph Neural Network Representations. Despite their growing popularity, graph neural networks (GNNs) still have multiple
 unsolved problems, including finding more expressive aggregation methods, propagation of information to distant nodes, and training on
 large-scale graphs. Understanding and solving such problems require developing analytic tools and techniques. In this work, we propose
 the notion of recoverability, which is tightly related to information aggregation in GNNs, and based on this concept, develop the method
