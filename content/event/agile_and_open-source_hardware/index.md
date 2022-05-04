@@ -12,18 +12,7 @@ title: The Era of Agile and Open-Source Hardware
 #  postcode: '94305'
 #  country: United States
 
-summary: 'Agile and open-source hardware design is considered to be one of the most promising ways to
-lower the design cost of chip design. In this Talk, I will introduce two projects: 1) XiangShan is an
-open-source high-performance RISC-V processor project started in June 2020. The first generation of
-XiangShan was taped-out at a frequency of 1.3GHz on 28-nm CMOS process in July 2021, which
-achieved a score of 7/GHz on SPECCPU 2006. The second generation of XiangShan targets 2GHz on
-14-nm CMOS process and will be taped-out recently, achieving a score of 10/GHz on SPECCPU
-2006. XiangShan is developed in Chisel, using many new open-source agile tools. 2) The One
-Student One Chip (OSOC) Initiative was launched in 2019, aiming to instruct undergraduates to build
-real chips. Five undergraduates participated in the OSOC Initiative and completed a 64-bit RISC-V
-processor SoC, which was manufactured by SIMC 110nm technology and can successfully run Linux
-at 200MHz. By now, more than 1800 students of 200 universities applied to participate in the OSOC
-Initiative.'
+summary: ''
 
 abstract: 'Agile and open-source hardware design is considered to be one of the most promising ways to
 lower the design cost of chip design. In this Talk, I will introduce two projects: 1) XiangShan is an
