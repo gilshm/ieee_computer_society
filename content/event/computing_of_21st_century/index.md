@@ -12,7 +12,7 @@ title: Computing of 21st Century
 #  postcode: '94305'
 #  country: United States
 
-summary: Mr. Michael Kagan, CTO, Nvidia
+summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -24,7 +24,8 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors:
+  - Mr. Michael Kagan, CTO, Nvidia
 tags: []
 
 # Is this a featured talk? (true/false)
