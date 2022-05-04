@@ -12,7 +12,7 @@ title: (1) Embracing the Resiliency of Deep Neural Networks — Rethinking Old M
 #  postcode: '94305'
 #  country: United States
 
-summary: Dr. Gil Shomron and Dr. Chaim Baskin
+summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -24,7 +24,9 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors:
+  - Dr. Gil Shomron
+  - Dr. Chaim Baskin
 tags: []
 
 # Is this a featured talk? (true/false)
