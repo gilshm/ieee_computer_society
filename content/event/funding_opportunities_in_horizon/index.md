@@ -13,7 +13,11 @@ title: Funding Opportunities for Research and Innovation In Horizon Europe
 #  country: United States
 
 summary: ''
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Horizon Europe is the largest Research and Innovation funding program in the world. It is a program of over 100B Euros for
+seven years (2021-2027) and it covers all industry disciplines and areas - from blue sky research to near to the market programs and
+from health and food to communication, industry and digital. Israel signed its Association agreement on December 2021 and Israeli
+participants are welcome to answer the open calls and try to receive the European funding. The presentation will be focused on the
+2022 open calls, the main areas and subjects for 2023-2024 and the process to answer to a European call.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
