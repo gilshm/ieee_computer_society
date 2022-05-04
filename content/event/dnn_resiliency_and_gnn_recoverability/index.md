@@ -1,5 +1,5 @@
 ---
-title: Two Talks: (1) Embracing the Resiliency of Deep Neural Networks: Rethinking Old Mechanisms; and (2) On a Recoverability of Graph Neural Network Representations
+title: (1) Embracing the Resiliency of Deep Neural Networks: Rethinking Old Mechanisms; and (2) On a Recoverability of Graph Neural Network Representations
 
 #event: Wowchemy Conference
 #event_url: https://example.org
