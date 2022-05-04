@@ -38,7 +38,7 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Watch
-    url: https://drive.google.com/file/d/1K3PEpXouVGVtoe8lLdARymkrxMTYvIPH/view
+    url: https://youtu.be/_ONHs6Qm974
 #  - icon: desktop
 #    icon_pack: fas
 #    name: Slides (Talk)
