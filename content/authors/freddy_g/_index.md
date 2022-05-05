@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:freddyg_at_ruppin_dot_ac_dot_il'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/wowchemy
-#  - icon: instagram
-#    icon_pack: fab
-#    link: https://instagram.com/geocushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://instagram.com/freddy-gabbay-71706b1
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GabbayFreddy
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
