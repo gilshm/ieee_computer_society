@@ -29,7 +29,7 @@ Initiative.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-17T13:00:00Z'
+date: '2022-06-07T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -51,7 +51,7 @@ links:
   - icon: pen
     icon_pack: fas
     name: Register
-    url: https://technion.zoom.us/webinar/register/WN_lMErhN-jQoSGBxDp5hNkiQ
+    url: https://technion.zoom.us/webinar/register/WN_-hUZmyitQvORxStlEKjyyQ
 #  - icon: desktop
 #    icon_pack: fas
 #    name: Slides (Intro)
